@@ -3,7 +3,7 @@
 True, False = 1, 0
 
 if 75 < 44:
-	print('False ({})'.(True))
+	print "Not true i.e ",False
 else:
-	print('True ({})'.(False))
+	print "Not false i.e ", True
 
