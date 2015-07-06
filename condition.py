@@ -1,9 +1,8 @@
-#!/usr/bin/python
+#!/usr/local/bin/python3.4
 
-True, False = 1, 0
-
+true, false = 1, 0
 if 75 < 44:
-	print "Not true i.e ",False
+	print ("Not true i.e {}".format(false))
 else:
-	print "Not false i.e ", True
+	print ("Not false i.e {}".format(true))
 
