@@ -1,1 +1,4 @@
-this is a blank script
+#!/usr/bin/python
+
+print ('Hello!!')
+
